@@ -2,8 +2,9 @@
  Author: Divyash Goyani </br>
  Heroku: https://news-divyash.herokuapp.com
 
-# About: 
-```This Project was Made in React by Divyash Goyani and Deploy on Heroku.```</br>
+## About: 
+```This Project was Made in React by Divyash Goyani and Deploy on Heroku from Newton School.```</br>
+
 
 
 ## Available Scripts
