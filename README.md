@@ -1,10 +1,9 @@
 # News-Digital-Divyash
-# Author:
- Divyash Goyani </br>
+ Author: Divyash Goyani </br>
  Heroku: https://news-divyash.herokuapp.com
 
 # About: 
-This Project was Made in React by Divyash Goyani and Deploy on Heroku</br>
+```This Project was Made in React by Divyash Goyani and Deploy on Heroku.```</br>
 
 
 ## Available Scripts
